@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/campusmapItem"
+        android:icon="@drawable/main_campusmap"
+        android:title="Campusmap" />
+    <item
+        android:id="@+id/busItem"
+        android:icon="@drawable/main_bus"
+        android:title="Bus" />
+    <item
+        android:id="@+id/linkItem"
+        android:icon="@drawable/main_link"
+        android:title="Link" />
+</menu>
